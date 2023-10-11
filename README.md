@@ -1,16 +1,14 @@
-### Hi there 👋
+### Всем привет👋
 
-<!--
-**AntonChernikov2407/AntonChernikov2407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Антон, и я начинающий веб-разработчик🤓
 
-Here are some ideas to get you started:
+Мои стремления🎯:
+- Работать над реальными проектами🗃️
+- Совершенствовать свои навыки🔝
+- Работать в команде🤝
+- Писать чистый и лаконичный код👍
+- Создавать лучшие веб-сервисы для людей🔥
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Мои стэк технологий🧰:
+
+<img src="https://img.shields.io/badge/HTML-2F4F4F?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/> <img src="https://img.shields.io/badge/CSS-2F4F4F?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/> <img src="https://img.shields.io/badge/JavaScript-2F4F4F?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/> <img src="https://img.shields.io/badge/React-2F4F4F?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/> <img src="https://img.shields.io/badge/Node.js-2F4F4F?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/> <img src="https://img.shields.io/badge/Express.js-2F4F4F?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/> <img src="https://img.shields.io/badge/MongoDB-2F4F4F?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/> <img src="https://img.shields.io/badge/GIT-2F4F4F?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/> <img src="https://img.shields.io/badge/ООП-2F4F4F?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/> <img src="https://img.shields.io/badge/БЭМ-2F4F4F?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/>
