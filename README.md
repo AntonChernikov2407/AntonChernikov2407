@@ -16,6 +16,6 @@
 
 Мои контакты:
 
-Почта: 000tony00053@gmail.com 
+Email: 000tony00053@gmail.com 
 
 Telegram: AntonChernikon2407
