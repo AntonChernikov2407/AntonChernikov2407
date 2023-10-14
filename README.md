@@ -16,8 +16,7 @@
 
 ## Мои контакты☎️:
 
-[![Gmail](./images/gmail-logo.svg)](https://mail.google.com): 000tony00053@gmail.com
-
-[![Telegram](./images/telegram-logo.svg)](https://web.telegram.org): @AntonChernikon2407
+[![Gmail](./images/gmail-logo.svg)](mailto:000tony00053@gmail.com)
+[![Telegram](./images/telegram-logo.svg)](https://t.me/AntonChernikov2407)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonchernikov2407&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
