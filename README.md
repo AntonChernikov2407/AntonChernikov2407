@@ -1,4 +1,4 @@
-# Всем привет👋
+# Всем привет<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
 
 Меня зовут Антон и я начинающий веб-разработчик🤓
 
@@ -26,5 +26,7 @@
 
 [![Gmail](./images/gmail-logo.svg)](mailto:000tony00053@gmail.com)
 [![Telegram](./images/telegram-logo.svg)](https://t.me/AntonChernikov2407)
+
+## Моя статистика📊:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonchernikov2407&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
